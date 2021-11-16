@@ -1,7 +1,8 @@
 # Lojadegames
 🎮 Criamos uma loja game e implementamos security.Desenvolvido no bootcamp Generation Brasil 👨‍💻
 
- Tecnologia Utilizada :
+<h2  align="center"> 👩🏽‍💻Tecnologias  :<h2>
+
   <p align="center">
  
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
