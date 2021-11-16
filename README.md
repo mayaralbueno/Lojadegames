@@ -9,4 +9,13 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   
   
+  
+  
+  <h2  align="center"> PREVIEW  :<h2>
+        
+      
+ <p align="center">
    <img align='right flex-center' src="https://media.giphy.com/media/jow0htwvROxzepF0UZ/giphy.gif" width="350">
+</p>
+
+  
